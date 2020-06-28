@@ -1,0 +1,4 @@
+E:\PROJECT\DailyTrading\DailyTrading\DatabaseManager\obj\Debug\netstandard1.6\DatabaseDAL.csprojAssemblyReference.cache
+E:\PROJECT\DailyTrading\DailyTrading\DatabaseManager\obj\Debug\netstandard1.6\DatabaseDAL.csproj.CoreCompileInputs.cache
+E:\PROJECT\DailyTrading\DailyTrading\DatabaseManager\obj\Debug\netstandard1.6\DatabaseDAL.AssemblyInfoInputs.cache
+E:\PROJECT\DailyTrading\DailyTrading\DatabaseManager\obj\Debug\netstandard1.6\DatabaseDAL.AssemblyInfo.cs

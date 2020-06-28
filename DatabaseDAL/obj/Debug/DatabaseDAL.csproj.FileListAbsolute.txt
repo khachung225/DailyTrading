@@ -1,0 +1,11 @@
+E:\PROJECT\DailyTrading\DailyTrading\DatabaseDAL\bin\Debug\DatabaseDAL.dll
+E:\PROJECT\DailyTrading\DailyTrading\DatabaseDAL\bin\Debug\DatabaseDAL.pdb
+E:\PROJECT\DailyTrading\DailyTrading\DatabaseDAL\bin\Debug\Npgsql.dll
+E:\PROJECT\DailyTrading\DailyTrading\DatabaseDAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\PROJECT\DailyTrading\DailyTrading\DatabaseDAL\bin\Debug\Npgsql.pdb
+E:\PROJECT\DailyTrading\DailyTrading\DatabaseDAL\bin\Debug\Npgsql.xml
+E:\PROJECT\DailyTrading\DailyTrading\DatabaseDAL\obj\Debug\DatabaseDAL.csprojAssemblyReference.cache
+E:\PROJECT\DailyTrading\DailyTrading\DatabaseDAL\obj\Debug\DatabaseDAL.csproj.CoreCompileInputs.cache
+E:\PROJECT\DailyTrading\DailyTrading\DatabaseDAL\obj\Debug\DatabaseDAL.csproj.CopyComplete
+E:\PROJECT\DailyTrading\DailyTrading\DatabaseDAL\obj\Debug\DatabaseDAL.dll
+E:\PROJECT\DailyTrading\DailyTrading\DatabaseDAL\obj\Debug\DatabaseDAL.pdb

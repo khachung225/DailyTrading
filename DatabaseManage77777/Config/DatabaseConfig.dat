@@ -1,0 +1,4 @@
+﻿{
+  "WorkingConnectionString" : "Data Source=45.32.9.174;Initial Catalog=DataBaseWorking;User ID=lemon;Password=Adema197;Persist Security Info=True",
+  "ArchiveConnectionString" : "Data Source=45.32.9.174;Initial Catalog=DataBaseHist;User ID=lemon;Password=Adema197;Persist Security Info=True"
+}

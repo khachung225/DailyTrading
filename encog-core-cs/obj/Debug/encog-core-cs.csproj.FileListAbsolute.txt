@@ -1,0 +1,11 @@
+E:\PROJECT\DailyTrading\DailyTrading\encog-core-cs\bin\Debug\encog-core-cs.xml
+E:\PROJECT\DailyTrading\DailyTrading\encog-core-cs\bin\Debug\encog-core-cs.dll
+E:\PROJECT\DailyTrading\DailyTrading\encog-core-cs\bin\Debug\encog-core-cs.pdb
+E:\PROJECT\DailyTrading\DailyTrading\encog-core-cs\obj\Debug\encog-core-cs.csprojAssemblyReference.cache
+E:\PROJECT\DailyTrading\DailyTrading\encog-core-cs\obj\Debug\Encog.encog-core-cs.resources
+E:\PROJECT\DailyTrading\DailyTrading\encog-core-cs\obj\Debug\Encog.ML.Data.Market.Loader.CSVFormLoader.resources
+E:\PROJECT\DailyTrading\DailyTrading\encog-core-cs\obj\Debug\Encog.Util.Simple.TrainingDialog.resources
+E:\PROJECT\DailyTrading\DailyTrading\encog-core-cs\obj\Debug\encog-core-cs.csproj.GenerateResource.cache
+E:\PROJECT\DailyTrading\DailyTrading\encog-core-cs\obj\Debug\encog-core-cs.csproj.CoreCompileInputs.cache
+E:\PROJECT\DailyTrading\DailyTrading\encog-core-cs\obj\Debug\encog-core-cs.dll
+E:\PROJECT\DailyTrading\DailyTrading\encog-core-cs\obj\Debug\encog-core-cs.pdb
